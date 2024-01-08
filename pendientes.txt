@@ -1,0 +1,5 @@
+Objectify - asosciarlo con las palabras
+Pedir mas posts
+hacer mas community detection y con la mejor comunidad sacar a gephi
+Organizar el codigo en 1,2,3... ordenado
+En las metricas del EDA hacer pruebas de hipotesis
