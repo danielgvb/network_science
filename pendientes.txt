@@ -10,6 +10,7 @@ All_text esta malo
 mostrar diccionario de palabras mas objectifying
 correlacion entre dummy y pagerank, centrality (degree)
 dejar captions_autocaptions_clean igual a la vs anterior y que no tenga duplicated
+juntar el codigo de buil_network
 
 Centrality: PageRank y Otra medida de centralidad (degree, clustering coefficient)
 Community Detection:
