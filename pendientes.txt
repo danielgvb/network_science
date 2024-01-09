@@ -9,3 +9,18 @@ Pendientes 01092024
 All_text esta malo
 mostrar diccionario de palabras mas objectifying
 correlacion entre dummy y pagerank, centrality (degree)
+dejar captions_autocaptions_clean igual a la vs anterior y que no tenga duplicated
+
+Centrality: PageRank y Otra medida de centralidad (degree, clustering coefficient)
+Community Detection:
+Modularity with louvain
+Infomap
+Bertopic
+Hacer red para caption, autocaption y all_text
+Adrian hace EDA de las metricas resultantes, tipo prueba de hipotesis sobre las comunidades
+
+Procesamiento de imagenes:
+* Hacer identificacion de caras
+* Resumir los colores
+* Skin Exposure Index
+* Con esas tres variables hacer un logit para Objectify
