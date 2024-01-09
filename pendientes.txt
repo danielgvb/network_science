@@ -3,3 +3,9 @@ Pedir mas posts
 hacer mas community detection y con la mejor comunidad sacar a gephi
 Organizar el codigo en 1,2,3... ordenado
 En las metricas del EDA hacer pruebas de hipotesis
+
+
+Pendientes 01092024
+All_text esta malo
+mostrar diccionario de palabras mas objectifying
+correlacion entre dummy y pagerank, centrality (degree)
