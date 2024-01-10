@@ -24,3 +24,7 @@ Procesamiento de imagenes:
 * Resumir los colores
 * Skin Exposure Index
 * Con esas tres variables hacer un logit para Objectify
+
+Notas reunion 01102024
+Relajar la limpieza, incluir mas POS y dejar hashtags y emoticones
+Compartirles communities de bertopic
