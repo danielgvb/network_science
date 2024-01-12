@@ -28,3 +28,12 @@ Procesamiento de imagenes:
 Notas reunion 01102024
 Relajar la limpieza, incluir mas POS y dejar hashtags y emoticones
 Compartirles communities de bertopic
+
+
+01112024
+Podriamos hacerlo cuantitativamente:
+*skin exposure
+*face or not
+contrast with hand labeled 
+Try to make a model that labels objectify or not and enrich with larger dataset.
+adrian - puede contribuir o hacer algo solo

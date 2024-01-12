@@ -21,3 +21,5 @@ shutil
 lzma
 louvain
 igraph
+ultralytics
+supervision
