@@ -37,3 +37,11 @@ Podriamos hacerlo cuantitativamente:
 contrast with hand labeled 
 Try to make a model that labels objectify or not and enrich with larger dataset.
 adrian - puede contribuir o hacer algo solo
+
+
+15012024
+Hacemos todo con los datos que ya tenemos o seguimos descargando datos y hacemos un modelo de ML para clasificar automaticamente posts
+Hacer modelo de skin detection
+Validar si los posts estan bien taggeados o hacer un modelo de ML que autoclasifique nuevos posts
+Encontrar como comparar los algoritmos de clustering
+Hacer modularity para comparar todas las asignaciones de comunidades
