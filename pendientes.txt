@@ -45,3 +45,11 @@ Hacer modelo de skin detection
 Validar si los posts estan bien taggeados o hacer un modelo de ML que autoclasifique nuevos posts
 Encontrar como comparar los algoritmos de clustering
 Hacer modularity para comparar todas las asignaciones de comunidades
+
+Hacer procesamiento de nuevos posts para filtrar posts relevantes y agregarlos a una super red
+notebooks por hacer
+
+Face detection b
+Skin detection b
+4_droping_non_relevant_posts_b
+5_other_features b
