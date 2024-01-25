@@ -53,3 +53,15 @@ Face detection b
 Skin detection b
 4_droping_non_relevant_posts_b
 5_other_features b
+
+
+25012024
+
+* Hacer Bertopic con lo que tenemos
+* Entregables:
+	- Pagerank
+	- Hacer grafico comparando comunity asignment algorithms
+	- Pintar una red con el mejor community asignment
+	- Incluir obj rate en la red que pintemos en gephi
+	- Mostrar los resultados de Bertopic
+	- Mostrar los resultados de ML para corroborar la thesis de obj segun imagen.
