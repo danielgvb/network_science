@@ -65,3 +65,7 @@ Skin detection b
 	- Incluir obj rate en la red que pintemos en gephi
 	- Mostrar los resultados de Bertopic
 	- Mostrar los resultados de ML para corroborar la thesis de obj segun imagen.
+
+
+01302024
+Meter LWIC modelo de machine learning
