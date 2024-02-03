@@ -69,3 +69,5 @@ Skin detection b
 
 01302024
 Meter LWIC modelo de machine learning
+bigclam en bipartite matrix
+get adjacency matrix from Mwd
