@@ -1,0 +1,64 @@
+Cluster 0:
+- **Fashion and beauty:** Focus on fashion items, beauty products, and lifestyle.
+
+- **Celebrities and influencers:** Collaborations with celebrities, fashion icons, and social media influencers.
+
+- **Events and locations:** Fashion shows, campaigns, and events taking place in stylish locations. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 1:
+- **Fashion and clothing**: bench, bracelet, decorate, disguise, foret, glow, grab, i, je, keep, laugh, listen, loudly, marie, motorcycle, night, possible, serve, shine, sleep, sofa, sparkle, spend, strong, supermarket, sydney, syrup, szn
+- **Activities and emotions**: aime, boy, childhood, cry, dancing, daytime, go, hawai, midnight, possible, serve, sleep, spend, strong
+- **Places and locations**: foret, hawai, midnight, sydney 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 2:
+- **Jewelry and Accessories**: This cluster likely represents the jewelry and accessories featured in the clothing brand campaigns, such as necklaces, earrings, rings, bracelets, and scarves.
+- **Beauty and Fragrance**: This cluster likely refers to the beauty and fragrance products featured in the campaigns, such as makeup, skincare, and perfume.
+- **Fashion and Style**: This cluster likely includes words related to the fashion and style of clothing, such as design, materials, colors, and trends. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 3:
+1. **Time and location:** American, December, Christmas, holiday, London, Stockholm
+2. **Fashion and style:** Architectural, artistic, award, balance, capsule, catch, custom, distinctive, ephemere, exclusive, fashion, feeling, good, luxury, minimalism, mosaic, multicoloured, quality, sailor, sensuality, showcase, size, timeless, rotate
+3. **Brand and campaign:** H&M, Jacquemus, Channel, Shein, Suki Waterhouse, noaille, palais, villa, tube, tram, studio 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 4:
+- **Fashion and clothing:** accessories, handbags, clothing, shoes, colors, styles.
+- **Lifestyle and activities:** adventure, travel, sports, parties, outdoor activities.
+- **Celebrities and influencers:** Jacquemus, Channel, H&M, Shein, Kendall Jenner, Jane Birkin. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 5:
+- Celebrities and famous people: This group of words includes names of well-known celebrities, such as Anna Wintour, Karl Lagerfeld, and Sofia Coppola, suggesting that the network is related to celebrity culture and fashion icons.
+
+- Fashion and clothing: Words like "fabric," "embroidery," "collection," and "design" indicate that the network is related to the fashion industry and clothing design.
+
+- Fashion shows and events: The presence of terms like "show," "runway," "front row," and "catwalk" suggests that the network is also connected to fashion shows and events, where new collections are presented and showcased. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 6:
+- **Fashion terminology:** attire, bikini, bucket, chic, clothing, fit, formal, fw, gay, grand, hat, khaki, lot, man, occasion, shirtless, shoot, shop, sing, slay, slouchy, smile, special, star, style, stylish, suit, summer, tan, type, variety, village, wear, zone.
+
+
+- **People/Roles:** couple, kid, life, man, mother, people, person, photography, pose, production, resolution, shoot, star, story, style, stylish, tan, zone.
+
+
+- **Events/Places/Organizations:** air, amour, annee, artwork, calendar, camera, corona, diverse, elle, extend, fill, finally, forget, global, group, handlee, invitation, journey, l, later, leave, liline, look, maviee, mean, most, ms, musera, never, oliver, page, pearch, phone, raise, really, rosa, rsvp, st, step, straw, table, talk, today, tom, try, worldwide. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 7:
+1. **Fashion and style**: aesthetic, basic, bikini, casual, check, chocolate, colorful, comfy, cool, cord, cottagecore, curve, cut, fashionable, fave, festive, fun, halter, injeanuity, innovation, inspiration, interpretation, kind, lavender, lazy, leisure, lion, modern, mood, motivational, multi, outfit, pair, perfect, plaid, plant, poster, pre, prominent, rock, sassy, seamless, seasonal, serious, shapely, shaping, shein, sheinofficial, sport, statue, stun, sun, super, support, swimwear, tank, tight, tm, tone, trip, ultimate, unitard, vibe, vibrant, wardrobe, wave, weekend, wild, willy, wonka, y, yet, zip.
+
+
+2. **Personal style and self-expression**: body, bodysuit, bring, curve, dinner, door, fall, flex, glam, glamour, get, injeanuity, innovation, interpretation, kind, lay, leisure, master, matching, move, need, park, perfect, pair, plant, poster, pre, prominent, put, ready, rock, sassy, seasonal, serious, shapely, shaping, sport, stun, sun, super, swimsuit, switch, tank, tell, tone, trip, ultimate, unitard, vibe, vibrant, wave, weekend, wild, wonka, y, yet, zip. 
+
+
+3. **Summer and beach**: aesthetic, back, beach, bikini, boat, body, bodysuit, casual, chocolate, colorful, comfy, cool, cottagecore, curve, cut, dinner, door, drymove, earth, edge, embrace, enhance, event, express, extra, factory, fall, feline, festive, flex, fun, garfield, get, glam, glamour, halter, injeanuity, innovation, inspiration, interpretation, kind, lavender, lay, leisure, lion, master, matching, modern, mood, motivational, move, movie, multi, need, outfit, pair, park, perfect, plaid, plant, poster, pre, prominent, put, ready, rock, sassy, seamless, seasonal, serious, shake, shapewear, shaping, shein, sheinofficial, sport, statue, stun, sun, super, support, sweeten, swimwear, switch, tank, tell, tight, tm, tone, trip, ultimate, unitard, vibe, vibrant, wardrobe, wave, weekend, wild, willy, wonka, y, yet, zip. 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 8:
+1. **Fashion production:** clothes, design, material, craftsmanship, fashion launch
+2. **Brand identity:** philosophy, creative, perfection, radical, innovative
+3. **Celebrity culture:** model, photographer, designer, stylist, casting 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Cluster 9:
+- **Fashion items:** blouse, dress, skirt, jacket, pants, shoes, accessories
+
+- **Styles:** casual, elegant, formal, sporty, glamorous
+
+- **Occasions:** everyday, special occasions, work, party, vacation 
+------------------------------------------------------------------------------------------------------------------------------------------------------
